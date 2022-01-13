@@ -1,5 +1,0 @@
-SECURITY_KEY = "lsdjlsadjidacs2dnsl"
-DATABASE = "earthjoy"
-PASSWORD = "1010"
-HOST = "localhost"
-USER = "root"
